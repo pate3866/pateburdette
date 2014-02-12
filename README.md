@@ -1,4 +1,4 @@
-pateburdette
+Pate Burdette
 ============
 
 Personal Site
